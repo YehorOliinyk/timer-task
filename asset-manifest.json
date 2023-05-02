@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timer-task/static/css/main.fa9fcabf.css",
+    "main.js": "/timer-task/static/js/main.ceb42d90.js",
+    "index.html": "/timer-task/index.html",
+    "main.fa9fcabf.css.map": "/timer-task/static/css/main.fa9fcabf.css.map",
+    "main.ceb42d90.js.map": "/timer-task/static/js/main.ceb42d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa9fcabf.css",
+    "static/js/main.ceb42d90.js"
+  ]
+}
